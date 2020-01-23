@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 13e5098a5555ee54fb70d34ebdeca947
+timeCreated: 1491054494
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - RedSprite: {fileID: 21300000, guid: 73f0a0600ac1d204eb70f00720ebb8df, type: 3}
+  - BlueSprite: {fileID: 21300000, guid: 90af3706f010f3242be4a0704d849f77, type: 3}
+  - GreenSprite: {fileID: 21300000, guid: c3ef611249453d746b989ff883fb9d9d, type: 3}
+  - GreySprite: {fileID: 21300000, guid: 57d671bd60211b448a3d4c0414d1f1d6, type: 3}
+  - scores: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

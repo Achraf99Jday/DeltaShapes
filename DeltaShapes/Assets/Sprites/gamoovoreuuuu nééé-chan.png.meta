@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 7fd13d25f1a6e574abc6da3b3edb44cd
+timeCreated: 1491818532
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "gamoovoreuuuu n\xE9\xE9\xE9-chan_0"
+    21300002: "gamoovoreuuuu n\xE9\xE9\xE9-chan_1"
+    21300004: "gamoovoreuuuu n\xE9\xE9\xE9-chan_2"
+    21300006: "gamoovoreuuuu n\xE9\xE9\xE9-chan_3"
+    21300008: "gamoovoreuuuu n\xE9\xE9\xE9-chan_4"
+    21300010: "gamoovoreuuuu n\xE9\xE9\xE9-chan_5"
+    21300012: "gamoovoreuuuu n\xE9\xE9\xE9-chan_6"
+    21300014: "gamoovoreuuuu n\xE9\xE9\xE9-chan_7"
+    21300016: "gamoovoreuuuu n\xE9\xE9\xE9-chan_8"
+    21300018: "gamoovoreuuuu n\xE9\xE9\xE9-chan_9"
+    21300020: "gamoovoreuuuu n\xE9\xE9\xE9-chan_10"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "gamoovoreuuuu n\xE9\xE9\xE9-chan_0"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 544
+        width: 82
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "gamoovoreuuuu n\xE9\xE9\xE9-chan_1"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 544
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "gamoovoreuuuu n\xE9\xE9\xE9-chan_2"
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 544
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "gamoovoreuuuu n\xE9\xE9\xE9-chan_3"
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 544
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "gamoovoreuuuu n\xE9\xE9\xE9-chan_4"
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 544
+        width: 81
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "gamoovoreuuuu n\xE9\xE9\xE9-chan_5"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 544
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "gamoovoreuuuu n\xE9\xE9\xE9-chan_6"
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 544
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "gamoovoreuuuu n\xE9\xE9\xE9-chan_7"
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 544
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "gamoovoreuuuu n\xE9\xE9\xE9-chan_8"
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 0
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "gamoovoreuuuu n\xE9\xE9\xE9-chan_9"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 609
+        width: 65
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "gamoovoreuuuu n\xE9\xE9\xE9-chan_10"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 528
+        width: 1030
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
